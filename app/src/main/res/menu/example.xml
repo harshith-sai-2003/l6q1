@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/Home"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/baseline_local_phone_24"
+        android:title="@string/Contact"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/baseline_question_mark_24"
+        android:title="@string/AboutUs"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/courses"
+        android:title="@string/courses"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/admission"
+        android:title="@string/admission"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/faculty"
+        android:title="@string/faculty"
+        app:showAsAction="never" />
+
+</menu>

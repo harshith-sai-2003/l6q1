@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MIT</string>
+    <string name="Home">Item3</string>
+    <string name="Contact">Item2</string>
+    <string name="AboutUs">Item1</string>
+    <string name="courses">Courses</string>
+    <string name="admission">Admission</string>
+    <string name="faculty">Faculty</string>
+</resources>
